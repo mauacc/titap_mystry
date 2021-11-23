@@ -7,4 +7,4 @@
 
 برای شروع فایل README.txt رو بخونید.
 
-this file edited in local
+این فایل در لوکال تغییر داده شده است.
